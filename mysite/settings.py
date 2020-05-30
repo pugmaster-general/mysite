@@ -25,7 +25,9 @@ SECRET_KEY = '#=%qrskgg(6b0=!gmy_kx*z+&m)3e7^x$1c$0t%=a4w-!nm$v4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'pugmastergeneral.pythonanywhere.com'
+]
 
 
 # Application definition
